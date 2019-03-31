@@ -2,6 +2,7 @@ uno
 dos
 tres
 cuatro
+cuatro y cuarto
 cinco
 cinco y medio
 seis
